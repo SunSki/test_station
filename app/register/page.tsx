@@ -1,3 +1,4 @@
+"use client";
 import { useState } from 'react'
 import { Lock, Mail, UserPlus } from 'lucide-react'
 import Link from 'next/link'
