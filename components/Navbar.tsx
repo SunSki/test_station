@@ -1,3 +1,4 @@
+"use client";
 import Link from 'next/link';
 import { Home, Map, List, User, CreditCard, Bell, HelpCircle, Settings, LogOut } from 'lucide-react';
 
